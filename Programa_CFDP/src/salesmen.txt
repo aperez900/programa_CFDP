@@ -1,0 +1,5 @@
+CC;1088573039;María;Rodríguez
+CC;1899250691;Sofía;Martínez
+CC;1895847504;Juan;López
+CC;1861776326;Juan;Martínez
+CC;1475097980;Juan;Martínez
