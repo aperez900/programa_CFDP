@@ -1,0 +1,5 @@
+Durante el desarrollo del proyecto se aprendió a aplicar los conceptos fundamentales de la programación en Java, como la creación de clases, manejo de archivos, uso de estructuras de control y generación de datos pseudoaleatorios. Además, se reforzaron buenas prácticas de codificación y documentación, así como la importancia de estructurar programas modulares y mantenibles.
+
+Estos conocimientos tienen una aplicación directa en la vida profesional, especialmente en el desarrollo de sistemas que requieren procesamiento y análisis de datos, automatización de reportes, integración con fuentes externas y validación de información. También fortalecen las habilidades necesarias para trabajar con repositorios de código y control de versiones, fundamentales en entornos colaborativos de desarrollo.
+
+Entre las principales dificultades encontradas se destacan la correcta lectura y escritura de archivos planos, la organización del código para mantenerlo claro y eficiente, y la detección de errores en la generación y procesamiento de datos. Superar estos retos permitió comprender mejor la lógica de programación y mejorar la capacidad de resolución de problemas técnicos.

@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class main {
 
 	// Directorio base de datos
-	private static final Path DATA_FOLDER = Paths.get("src/resources");
+	private static final Path DATA_FOLDER = Paths.get("src/");
 
 	// Archivos de entrada
 	private static final Path FILE_PRODUCTS = DATA_FOLDER.resolve("products.txt");
@@ -23,6 +23,9 @@ public class main {
     public static void main(String[] args) {
         try {
         	System.out.println("Directorio actual: " + new File(".").getAbsolutePath());
+        	
+        	
+        	
             // 1. Cargar productos y vendedores
         	Map<String, Producto> productos = cargarProductos(FILE_PRODUCTS.toString());
         	Map<String, String> vendedores = cargarVendedores(FILE_SALESMEN.toString());
